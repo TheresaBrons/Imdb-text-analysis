@@ -1,2 +1,0 @@
-# Imdb-text-analysis
-Imdb
